@@ -1,2 +1,4 @@
 Theano
 Digitale werkomgeving
+
+ik kan iets aanpassen aan het project
