@@ -1,5 +1,5 @@
-bug fixes
+nieuwste features
 
 //
 
-console.writeline("nieuw");
+console.write("code");
